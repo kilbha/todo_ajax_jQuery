@@ -1,0 +1,19 @@
+::placeholder{
+    color:black;
+    opacity:1;
+}
+
+:placeholder-shown{
+
+}
+
+.bgcolor{
+    background-color:white;
+
+.bodycolor{
+    background-color:#79AEC8;
+}
+
+.tcolor{
+    background-color:#C724B1;
+}
